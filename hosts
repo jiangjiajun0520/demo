@@ -1,0 +1,59 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+
+
+# ÆÁ±ÎAdobe¼¤»î·þÎñÆ÷£º
+0.0.0.0 activate.adobe.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 ereg.adobe.com
+0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3dns-2.adobe.com
+0.0.0.0 adobe-dns.adobe.com
+0.0.0.0 adobe-dns-2.adobe.com
+0.0.0.0 adobe-dns-3.adobe.com
+0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 activate-sea.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+0.0.0.0 activate-sjc0.adobe.com
+127.0.0.1  www.xmind.net
+
+#GitHub
+140.82.113.3 github.com
+199.232.69.194 github.global.ssl.fastly.net
+185.199.108.153 assets-cdn.github.com
+185.199.109.153 assets-cdn.github.com
+185.199.110.153 assets-cdn.github.com
+185.199.111.153 assets-cdn.github.com
+74.125.138.91 dl-ssl.Google.com
+74.125.138.93 dl-ssl.Google.com
+74.125.138.136 dl-ssl.Google.com
+74.125.138.190 dl-ssl.Google.com
+209.85.200.100 groups.google.com
+209.85.200.101 groups.google.com
+209.85.200.102 groups.google.com
+209.85.200.113 groups.google.com
+209.85.200.138 groups.google.com
+209.85.200.139 groups.google.com
+216.58.192.234 ajax.googleapis.com
